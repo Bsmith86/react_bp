@@ -1,0 +1,5 @@
+.player-container {
+    background-color: aqua;
+    width: 50%;
+    display: inline-block;
+}
